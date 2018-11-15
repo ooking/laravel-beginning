@@ -23,8 +23,8 @@ $ cp .env.example .env
 ```
 根据实际情况修改设置,特别是数据库和REDIS,还有下面两个
 ```
-ADMIN_DOMAIN=[admin.lvbegin.com](http://admin.lvbegin.com)
-API_DOMAIN=[api.lvbegin.com](http://api.lvbegin.com)
+ADMIN_DOMAIN=admin.lvbegin.com
+API_DOMAIN=api.lvbegin.com
 ```
 继续执行下面命令
 ```
