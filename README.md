@@ -17,6 +17,7 @@
 
 ##### 开发环境部署
 ```
+$ git clone git@github.com:ooking/laravel-beginning.git
 $ composer install
 $ cp .env.example .env
 ```
