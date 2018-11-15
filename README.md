@@ -43,7 +43,7 @@ http://api.lvbegin.com 接口需要通过 postman 测试
 
 ##### 接口列表：
 
-![image.png](https://upload-images.jianshu.io/upload_images/4315462-88722c7251fd8234.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![接口列表](https://upload-images.jianshu.io/upload_images/4315462-88722c7251fd8234.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 测试的时候记得先调用注册接口注册一个用户先
 
@@ -70,6 +70,13 @@ server {
     }
 }
 ```
+##### 截图
+![管理端](https://upload-images.jianshu.io/upload_images/4315462-080a593681d57027.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![管理端](https://upload-images.jianshu.io/upload_images/4315462-98979bcbba035111.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![POSTMAN 调试](https://upload-images.jianshu.io/upload_images/4315462-6796bba7f7490108.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ##### 参考
 - laravel 安装
 [https://laravel.com/docs/5.7/installation](https://laravel.com/docs/5.7/installation)
