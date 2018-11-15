@@ -47,10 +47,12 @@ return [
     | 
     */
     'route' => [
-        'domain'    => env('ADMIN_DOMAIN', null),
-        'prefix'    => env('ADMIN_PREFIX', 'admin'),
-        'namespace' => 'App\\Admin\\Controllers',
+        'domain' => env('ADMIN_DOMAIN', null),
 
+        'prefix' => env('ADMIN_PREFIX', 'admin'),
+        
+        'namespace' => 'App\\Admin\\Controllers',
+        
         'middleware' => ['web', 'admin'],
     ],
 
