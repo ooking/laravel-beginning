@@ -1,7 +1,8 @@
-基于 Laravel + Dingo api + JWT + laravel-admin 的基础项目
-基于 rest api 完成了注册登录等接口，修改后直接使用
+- 基于 Laravel + Dingo api + JWT + laravel-admin 的基础项目
+- 基于 rest api 完成了注册登录等接口，修改后直接使用
+- 前后台和接口独立域名
+
 启动新项目直接使用节省时间
-前后台和接口独立域名
 
 版本：
 - Laravel 5.7.13
