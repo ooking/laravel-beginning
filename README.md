@@ -31,6 +31,7 @@ API_DOMAIN=api.lvbegin.com
 ```
 $ php artisan key:generate
 $ php artisan admin:install
+# 上面命令会有错误： 『Admin directory already exists !』 请忽略！
 $ php artisan vendor:publish --provider="Encore\Admin\AdminServiceProvider"
 $ php artisan jwt:secret
 $ php artisan vendor:publish --provider="Tymon\JWTAuth\Providers\LaravelServiceProvider"
